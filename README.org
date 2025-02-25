@@ -1,0 +1,3 @@
+Random generator using functional approach. Trying to follow API defined in [[https://www.manning.com/books/functional-programming-in-scala][FP in Scala]] and some ideas from [[https://scalacheck.org/][ScalaCheck]].
+
+Not fully tested, not fully completed, it mostly works. Done to exercise/improve my understanding on rust types, and to use it in [[https://asapi.qoback.es][Asapi]].
